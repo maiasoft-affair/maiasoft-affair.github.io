@@ -3789,8 +3789,8 @@ S.a52(q,k,t.w7)
 g=new G.oC(R.asU(""),H.a([],j),P.dQ(null,null,null,i,h),new M.ev(g),new M.ev(g),!1,!1)
 g.mc()
 S.a52(q,g,t.l6)
-q=$.aDO()
-q=q==null?null:q.getAttribute("href")
+g=$.aDO()
+q=g==null?null:g.getAttribute("href")
 if(q==null)H.d(P.cq("Please add a <base> element to your index.html"))
 if(!J.aFd(q,"/"))H.d(P.cq('The base href has to end with a "/" to work correctly'))
 p=$.aEt()
@@ -83133,7 +83133,7 @@ $.ax6=null
 $.D7=P.v(t.N,t._8)
 $.WB=null
 $.ap5=null
-$.aHQ=P.aC(["en_US",C.K0,"ja_JP",C.JE,"zh_CN",C.K_],t.N,H.a3("ah<i,i>"))
+$.aHQ=P.aC(["ja_JP",C.JE,"zh_CN",C.K_,"en_US",C.K0],t.N,H.a3("ah<i,i>"))
 $.aJa=U.aPd()
 $.a1W=0
 $.IL=H.a([],H.a3("r<aSI>"))
